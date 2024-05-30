@@ -2,7 +2,7 @@ from pathlib import Path
 
 import setuptools
 
-import mdmm
+#import mdmm
 
 
 setuptools.setup(
