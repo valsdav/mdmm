@@ -18,7 +18,7 @@ setuptools.setup(
     license_files=['LICENSE'],
     packages=['mdmm'],
     install_requires=['dataclasses>=0.8;python_version<"3.7"',
-                      'torch>=1.7.1'],
+                      'torch>2.0.0'],
     python_requires=">=3.6",
     classifiers=[
         'Development Status :: 3 - Alpha',
