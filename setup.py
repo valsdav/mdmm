@@ -7,7 +7,7 @@ import setuptools
 
 setuptools.setup(
     name='mdmm',
-    version=mdmm.__version__,
+    version=0.1.3,
     description='The Modified Differential Multiplier Method (MDMM) for PyTorch.',
     long_description=(Path(__file__).resolve().parent / 'README.md').read_text(),
     long_description_content_type='text/markdown',
